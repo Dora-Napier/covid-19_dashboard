@@ -1,5 +1,5 @@
 # covid-19_dashboard
-ntroduction:
+introduction:
 this program generates a covid dashboard that allows the user to see the top news articles aswell as view covid data. the covid data includes statistics such as the local and national 7 day infection rate hospital cases and cumulative deaths. the program can be modifed by the user to best suit thier needs. They are able to change the location of the local data by altering the config file slightly. the user is also able to deleate news articles aswell as schedule and remove updates.
 
 prerequisites:
